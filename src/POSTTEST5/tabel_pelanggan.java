@@ -79,7 +79,7 @@ public void InitTable(){
             }
         });
 
-        jPanel2.setBackground(new java.awt.Color(153, 204, 255));
+        jPanel2.setBackground(new java.awt.Color(102, 204, 255));
 
         jLabel4.setFont(new java.awt.Font("Arial", 1, 18)); // NOI18N
         jLabel4.setText("Tabel Pelanggan");
